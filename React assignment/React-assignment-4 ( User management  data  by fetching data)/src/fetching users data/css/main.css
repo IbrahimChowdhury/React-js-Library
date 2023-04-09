@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+}
+
+.singleData{
+    background-color: rgb(72, 69, 69);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px; 
+    width:200px;
+}
+
+
+
+
+.singleData:hover{
+    background-color: rgb(25, 23, 23);
+}
+
+
+.main{
+    background-color: rgb(133, 130, 130);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.singleData h4,p{
+    color: rgb(248, 248, 248);
+}
+.singleData h3{
+    color: rgb(248, 235, 92);
+}
+.maind1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    
+}
+
+.heading1{
+    color: rgb(237, 238, 240)
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    /* For mobile phones: */
+    .singleData{
+        width: 90%;
+    }
+  }
+
+
+

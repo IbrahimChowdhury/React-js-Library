@@ -1,0 +1,9 @@
+.valid{
+    background-color: rgb(171, 230, 210);
+    font-style: italic;
+}
+
+.invalid{
+    background-color: rgb(204, 164, 242);
+}
+

@@ -1,0 +1,10 @@
+.singleData{
+    margin: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+.alldata{
+    display: flex;
+    flex-wrap: wrap;
+}

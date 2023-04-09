@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+}
+
+.singleCountry img{
+   width: 180px;
+}
+
+.singleCountry p{
+    color: azure;
+}
+
+.singleCountryMain{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(28, 47, 85);
+    width: 320px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+.singleCountryMain:hover{
+transform: scale(1.1);
+}
+
+.allCountries{
+   display: flex;
+   flex-wrap: wrap;
+  
+   
+   display: flex;
+   justify-content: center;
+}
+.search{
+    text-align: center;
+    padding: 10px;
+    font-size: 28px;
+}
+.search input{
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+}
+.singleCountry button {
+    border-radius: 10px;
+    height: 11%;
+}
+
+.singleCountry button:hover {
+    background-color: rgb(226, 116, 155);
+    cursor: pointer;
+}
+
+.loadingMsg{
+    text-align: center;
+    color: rgb(82, 96, 162);
+    font-size: 25px;
+    
+}
+

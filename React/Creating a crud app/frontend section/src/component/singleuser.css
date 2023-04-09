@@ -1,0 +1,10 @@
+.singleUser{
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 10px;
+}
+
+.allUsers{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,17 @@
+nav{
+    background-color: rgb(86, 80, 80);
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navlink{
+    padding: 10px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+nav .active{
+    color: rgb(0, 0, 0);
+}

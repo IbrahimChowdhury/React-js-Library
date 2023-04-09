@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+}
+
+
+.card {
+    background-color: rgb(206, 181, 147);
+    width: 27%;
+    padding: 15px;
+    box-shadow: 2px 4px 5px black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    margin: 20px;
+    height: 200px;
+}
+
+.main_card {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card_body {
+    font-size: 23px;
+}
+.fnc_crd{
+    background-color: rgb(234, 204, 165);
+    padding: 20px;
+    margin: 20px;
+}
+.maindiv{
+    margin-left:20px ;
+    
+}

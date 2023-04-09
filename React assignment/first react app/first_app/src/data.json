@@ -1,0 +1,58 @@
+[
+    {
+        "title":"ibrahim chowdhury",
+        "vrct": "Islamic university",
+        "phone":[
+            {"home":"01734935995"},
+            {"office":"48374356" }
+        ]
+    },
+    {
+        "title":"mahi",
+        "vrct": "Rajshihi university",
+        "phone":[
+            {"home":"01734935995"},
+            {"office":"48374356" }
+        ]
+    },
+    {
+        "title":"Anika chowdhury",
+        "vrct": "Mymenshing university",
+        "phone":[
+            {"home":"01734935995"},
+            {"office":"48374356" }
+        ]
+    },
+    {
+        "title":"Alauddin",
+        "vrct": "Mymenshing university",
+        "phone":[
+            {"home":"01734935995"},
+            {"office":"48374356" }
+        ]
+    },
+    {
+        "title":"Mamun",
+        "vrct": "Rajshahi College",
+        "phone":[
+            {"home":"01734935995"},
+            {"office":"48374356" }
+        ]
+    },
+    {
+        "title":"Afridi",
+        "vrct": "AIUB",
+        "phone":[
+            {"home":"01734935995"},
+            {"office":"48374356" }
+        ]
+    },
+    {
+        "title":"Mijan",
+        "vrct": "Islamic university",
+        "phone":[
+            {"home":"01734935995"},
+            {"office":"48374356" }
+        ]
+    }
+]

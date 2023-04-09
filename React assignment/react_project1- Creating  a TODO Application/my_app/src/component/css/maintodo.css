@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+}
+
+.mainDiv{
+    background-color: rgb(135, 131, 131) ;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+
+
+}
+.todoHeading{
+    text-align: center;
+    color: rgb(226, 227, 227);
+    font-family: sans-serif;
+padding-top: 20px;
+}
